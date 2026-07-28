@@ -1,0 +1,35 @@
+name: Auto Update YML
+
+on:
+  schedule:
+    - cron: '*/30 *' # প্রতি 30 মিনিটে 1 বার run হবে
+  workflow_dispatch: # Manual run করার বাটন
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run update script
+        run: update.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add siamscrichd.yml
+          git diff --staged --quiet || git commit -m "Auto update: $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
