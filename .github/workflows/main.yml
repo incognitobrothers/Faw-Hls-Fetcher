@@ -18,6 +18,5 @@ jobs:
       - name: Commit and Push
         run: |
           git config --local user.email "bot@github.com"
-          git config --local user.name "fawa-bot"
           git add playlist.m3u
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update playlist $(date -u)" && git push)
