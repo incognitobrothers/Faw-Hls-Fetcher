@@ -2,7 +2,7 @@ name: Auto Update Fawa Playlist
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # 10 min por por
+    - cron: '0 * * * *'  # 10 min por por
   workflow_dispatch:
 
 jobs:
