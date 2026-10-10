@@ -1,8 +1,8 @@
-name: Update Live Events 
+name: Update Live Events
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,10 +15,14 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -40,25 +44,28 @@ jobs:
           ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
           BASE_URL: ${{ secrets.BASE_URL }}
         run: |
+          set -e
+
           if [ -z "$ZIP_PASSWORD" ]; then
-            echo "ERROR: ZIP_PASSWORD secret is missing."
+            echo "::error::ZIP_PASSWORD secret is missing."
             exit 1
           fi
 
           if [ -z "$BASE_URL" ]; then
-            echo "ERROR: BASE_URL secret is missing."
+            echo "::error::BASE_URL secret is missing."
             exit 1
           fi
 
           if [ ! -f main.zip ]; then
-            echo "ERROR: main.zip not found in repository root."
+            echo "::error::main.zip not found in repository root."
             exit 1
           fi
 
-      - name: Extract main.py to temporary directory
+      - name: Extract main.py
         env:
           ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
         run: |
+          set -e
           PRIVATE_DIR="$RUNNER_TEMP/private-code"
           mkdir -p "$PRIVATE_DIR"
 
@@ -74,18 +81,22 @@ jobs:
         env:
           BASE_URL: ${{ secrets.BASE_URL }}
         run: |
+          set -e
           python "$RUNNER_TEMP/private-code/main.py"
 
       - name: Commit and push updated files
         run: |
+          set -e
+
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add -f -- playlist.m3u events.json
 
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update live events playlist"
-            git push
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           else
             echo "No playlist or database changes."
           fi
