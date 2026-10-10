@@ -6,6 +6,41 @@
 #EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.50/hls/ffffa.m3u8
 
+#EXTINF:-1 tvg-name="GIMCHEON SANGMU VS ANYANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",GIMCHEON SANGMU VS ANYANG
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.41/hls/IIIIAAAA.m3u8
+
+#EXTINF:-1 tvg-name="FC TOKYO VS URAWA REDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",FC TOKYO VS URAWA REDS
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.41/hls/IIIIAAA.m3u8
+
+#EXTINF:-1 tvg-name="AVISPA FUKUOKA VS OKAYAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",AVISPA FUKUOKA VS OKAYAMA
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.41/hls/IIIIAA.m3u8
+
+#EXTINF:-1 tvg-name="CEREZO OSAKA VS YOKOHAMA F MARINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",CEREZO OSAKA VS YOKOHAMA F MARINOS
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.41/hls/IIIIA.m3u8
+
+#EXTINF:-1 tvg-name="SEOUL VS JEJU SK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",SEOUL VS JEJU SK
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.41/hls/IIII.m3u8
+
 #EXTINF:-1 tvg-name="MOTOGP GRAND PRIX OF INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",MOTOGP GRAND PRIX OF INDONESIA
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
