@@ -1,0 +1,96 @@
+name: Update Live Events 
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-live-events
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Install 7-Zip
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y p7zip-full
+
+      - name: Validate secrets and ZIP
+        env:
+          ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
+          BASE_URL: ${{ secrets.BASE_URL }}
+        run: |
+          if [ -z "$ZIP_PASSWORD" ]; then
+            echo "ERROR: ZIP_PASSWORD secret is missing."
+            exit 1
+          fi
+
+          if [ -z "$BASE_URL" ]; then
+            echo "ERROR: BASE_URL secret is missing."
+            exit 1
+          fi
+
+          if [ ! -f main.zip ]; then
+            echo "ERROR: main.zip not found in repository root."
+            exit 1
+          fi
+
+      - name: Extract main.py to temporary directory
+        env:
+          ZIP_PASSWORD: ${{ secrets.ZIP_PASSWORD }}
+        run: |
+          PRIVATE_DIR="$RUNNER_TEMP/private-code"
+          mkdir -p "$PRIVATE_DIR"
+
+          7z x main.zip \
+            "-p${ZIP_PASSWORD}" \
+            -y \
+            "-o${PRIVATE_DIR}" \
+            main.py
+
+          test -f "$PRIVATE_DIR/main.py"
+
+      - name: Run updater
+        env:
+          BASE_URL: ${{ secrets.BASE_URL }}
+        run: |
+          python "$RUNNER_TEMP/private-code/main.py"
+
+      - name: Commit and push updated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -f -- playlist.m3u events.json
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-update live events playlist"
+            git push
+          else
+            echo "No playlist or database changes."
+          fi
+
+      - name: Remove temporary source code
+        if: always()
+        run: |
+          rm -rf "$RUNNER_TEMP/private-code"
