@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T06:45:07.648383+00:00",
+  "updated_at": "2026-10-10T08:39:54.764640+00:00",
   "events": {
     "http://www.fawanews.sc/New Zealand vs Australia.html": {
       "title": "NEW ZEALAND VS AUSTRALIA",
@@ -7,8 +7,8 @@
       "page": "http://www.fawanews.sc/New Zealand vs Australia.html",
       "url": "http://193.47.62.50/hls/ffffa.m3u8",
       "first_seen": "2026-10-10T06:45:04.553241+00:00",
-      "last_checked": "2026-10-10T06:45:04.553947+00:00",
-      "last_stream_found": "2026-10-10T06:45:04.644964+00:00"
+      "last_checked": "2026-10-10T08:39:50.971042+00:00",
+      "last_stream_found": "2026-10-10T08:39:51.063116+00:00"
     },
     "http://www.fawanews.sc/Gimcheon Sangmu vs Anyang.html": {
       "title": "GIMCHEON SANGMU VS ANYANG",
@@ -16,8 +16,8 @@
       "page": "http://www.fawanews.sc/Gimcheon Sangmu vs Anyang.html",
       "url": "http://193.47.62.41/hls/IIIIAAAA.m3u8",
       "first_seen": "2026-10-10T06:45:04.553259+00:00",
-      "last_checked": "2026-10-10T06:45:04.646019+00:00",
-      "last_stream_found": "2026-10-10T06:45:04.736803+00:00"
+      "last_checked": "2026-10-10T08:39:51.064090+00:00",
+      "last_stream_found": "2026-10-10T08:39:51.155503+00:00"
     },
     "http://www.fawanews.sc/Tennis WTA Beijing.html": {
       "title": "TENNIS WTA BEIJING",
@@ -25,7 +25,7 @@
       "page": "http://www.fawanews.sc/Tennis WTA Beijing.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553262+00:00",
-      "last_checked": "2026-10-10T06:45:04.737761+00:00"
+      "last_checked": "2026-10-10T08:39:51.156216+00:00"
     },
     "http://www.fawanews.sc/FC Tokyo vs Urawa Reds.html": {
       "title": "FC TOKYO VS URAWA REDS",
@@ -33,8 +33,8 @@
       "page": "http://www.fawanews.sc/FC Tokyo vs Urawa Reds.html",
       "url": "http://193.47.62.41/hls/IIIIAAA.m3u8",
       "first_seen": "2026-10-10T06:45:04.553265+00:00",
-      "last_checked": "2026-10-10T06:45:04.829529+00:00",
-      "last_stream_found": "2026-10-10T06:45:04.920123+00:00"
+      "last_checked": "2026-10-10T08:39:51.248464+00:00",
+      "last_stream_found": "2026-10-10T08:39:51.339692+00:00"
     },
     "http://www.fawanews.sc/Avispa Fukuoka vs Okayama.html": {
       "title": "AVISPA FUKUOKA VS OKAYAMA",
@@ -42,8 +42,8 @@
       "page": "http://www.fawanews.sc/Avispa Fukuoka vs Okayama.html",
       "url": "http://193.47.62.41/hls/IIIIAA.m3u8",
       "first_seen": "2026-10-10T06:45:04.553267+00:00",
-      "last_checked": "2026-10-10T06:45:04.920883+00:00",
-      "last_stream_found": "2026-10-10T06:45:05.011111+00:00"
+      "last_checked": "2026-10-10T08:39:51.340384+00:00",
+      "last_stream_found": "2026-10-10T08:39:51.431652+00:00"
     },
     "http://www.fawanews.sc/Cerezo Osaka vs Yokohama F Marinos.html": {
       "title": "CEREZO OSAKA VS YOKOHAMA F MARINOS",
@@ -51,8 +51,8 @@
       "page": "http://www.fawanews.sc/Cerezo Osaka vs Yokohama F Marinos.html",
       "url": "http://193.47.62.41/hls/IIIIA.m3u8",
       "first_seen": "2026-10-10T06:45:04.553269+00:00",
-      "last_checked": "2026-10-10T06:45:05.011823+00:00",
-      "last_stream_found": "2026-10-10T06:45:05.101787+00:00"
+      "last_checked": "2026-10-10T08:39:51.432370+00:00",
+      "last_stream_found": "2026-10-10T08:39:51.523625+00:00"
     },
     "http://www.fawanews.sc/Seoul vs Jeju SK.html": {
       "title": "SEOUL VS JEJU SK",
@@ -60,8 +60,8 @@
       "page": "http://www.fawanews.sc/Seoul vs Jeju SK.html",
       "url": "http://193.47.62.41/hls/IIII.m3u8",
       "first_seen": "2026-10-10T06:45:04.553274+00:00",
-      "last_checked": "2026-10-10T06:45:05.102431+00:00",
-      "last_stream_found": "2026-10-10T06:45:05.192755+00:00"
+      "last_checked": "2026-10-10T08:39:51.524331+00:00",
+      "last_stream_found": "2026-10-10T08:39:51.615504+00:00"
     },
     "http://www.fawanews.sc/Tennis ATP Shanghai.html": {
       "title": "TENNIS ATP SHANGHAI",
@@ -69,7 +69,7 @@
       "page": "http://www.fawanews.sc/Tennis ATP Shanghai.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553276+00:00",
-      "last_checked": "2026-10-10T06:45:05.193415+00:00"
+      "last_checked": "2026-10-10T08:39:51.616221+00:00"
     },
     "http://www.fawanews.sc/MotoGP Grand Prix of Indonesia.html": {
       "title": "MOTOGP GRAND PRIX OF INDONESIA",
@@ -77,8 +77,8 @@
       "page": "http://www.fawanews.sc/MotoGP Grand Prix of Indonesia.html",
       "url": "http://193.47.62.50/hls/HHHHRAAA.m3u8",
       "first_seen": "2026-10-10T06:45:04.553278+00:00",
-      "last_checked": "2026-10-10T06:45:05.284433+00:00",
-      "last_stream_found": "2026-10-10T06:45:05.374297+00:00"
+      "last_checked": "2026-10-10T08:39:51.708191+00:00",
+      "last_stream_found": "2026-10-10T08:39:51.799609+00:00"
     },
     "http://www.fawanews.sc/Golf PGA Baycurrent Classic.html": {
       "title": "GOLF PGA BAYCURRENT CLASSIC",
@@ -86,8 +86,8 @@
       "page": "http://www.fawanews.sc/Golf PGA Baycurrent Classic.html",
       "url": "http://193.47.62.44/hls/CTTTT.m3u8",
       "first_seen": "2026-10-10T06:45:04.553280+00:00",
-      "last_checked": "2026-10-10T06:45:05.374932+00:00",
-      "last_stream_found": "2026-10-10T06:45:05.464702+00:00"
+      "last_checked": "2026-10-10T08:39:51.800333+00:00",
+      "last_stream_found": "2026-10-10T08:39:51.891738+00:00"
     },
     "http://www.fawanews.sc/United Cup chief admits high-profile retirements make things a bit more difficult.html": {
       "title": "UNITED CUP CHIEF ADMITS HIGH-PROFILE RETIREMENTS MAKE THINGS A BIT MORE DIFFICULT",
@@ -95,7 +95,7 @@
       "page": "http://www.fawanews.sc/United Cup chief admits high-profile retirements make things a bit more difficult.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553282+00:00",
-      "last_checked": "2026-10-10T06:45:05.465412+00:00"
+      "last_checked": "2026-10-10T08:39:51.892443+00:00"
     },
     "http://www.fawanews.sc/Mercedes announce Valtteri Bottas as reserve driver after Sauber exit.html": {
       "title": "MERCEDES ANNOUNCE VALTTERI BOTTAS AS RESERVE DRIVER AFTER SAUBER EXIT",
@@ -103,7 +103,7 @@
       "page": "http://www.fawanews.sc/Mercedes announce Valtteri Bottas as reserve driver after Sauber exit.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553284+00:00",
-      "last_checked": "2026-10-10T06:45:05.556374+00:00"
+      "last_checked": "2026-10-10T08:39:51.984878+00:00"
     },
     "http://www.fawanews.sc/Red Bull admit Tsunoda could leave after promoting Lawson instead.html": {
       "title": "RED BULL ADMIT TSUNODA COULD LEAVE AFTER PROMOTING LAWSON INSTEAD",
@@ -111,7 +111,7 @@
       "page": "http://www.fawanews.sc/Red Bull admit Tsunoda could leave after promoting Lawson instead.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553286+00:00",
-      "last_checked": "2026-10-10T06:45:05.647426+00:00"
+      "last_checked": "2026-10-10T08:39:52.077188+00:00"
     },
     "http://www.fawanews.sc/Oklahoma City Thunder and Alex Caruso agree to $81 million contract extension.html": {
       "title": "OKLAHOMA CITY THUNDER AND ALEX CARUSO AGREE TO $81 MILLION CONTRACT EXTENSION",
@@ -119,7 +119,7 @@
       "page": "http://www.fawanews.sc/Oklahoma City Thunder and Alex Caruso agree to $81 million contract extension.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553288+00:00",
-      "last_checked": "2026-10-10T06:45:05.738917+00:00"
+      "last_checked": "2026-10-10T08:39:52.169777+00:00"
     },
     "http://www.fawanews.sc/Southampton announce the appointment of Croatian coach Ivan Juric.html": {
       "title": "SOUTHAMPTON ANNOUNCE THE APPOINTMENT OF CROATIAN COACH IVAN JURIC",
@@ -127,7 +127,7 @@
       "page": "http://www.fawanews.sc/Southampton announce the appointment of Croatian coach Ivan Juric.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553290+00:00",
-      "last_checked": "2026-10-10T06:45:05.829684+00:00"
+      "last_checked": "2026-10-10T08:39:52.261905+00:00"
     },
     "http://www.fawanews.sc/Southampton battle to earn valuable point at high-flying Fulham.html": {
       "title": "SOUTHAMPTON BATTLE TO EARN VALUABLE POINT AT HIGH-FLYING FULHAM",
@@ -135,7 +135,7 @@
       "page": "http://www.fawanews.sc/Southampton battle to earn valuable point at high-flying Fulham.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553292+00:00",
-      "last_checked": "2026-10-10T06:45:05.920754+00:00"
+      "last_checked": "2026-10-10T08:39:52.368195+00:00"
     },
     "http://www.fawanews.sc/Arsenal manager Mikel Arteta confirms Bukayo Saka set to be ruled out for many weeks.html": {
       "title": "ARSENAL MANAGER MIKEL ARTETA CONFIRMS BUKAYO SAKA SET TO BE RULED OUT FOR MANY WEEKS",
@@ -143,7 +143,7 @@
       "page": "http://www.fawanews.sc/Arsenal manager Mikel Arteta confirms Bukayo Saka set to be ruled out for many weeks.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553293+00:00",
-      "last_checked": "2026-10-10T06:45:06.011911+00:00"
+      "last_checked": "2026-10-10T08:39:52.460544+00:00"
     },
     "http://www.fawanews.sc/Ruben Amorim questions decision-making of Marcus Rashford camp after recent comments.html": {
       "title": "RUBEN AMORIM QUESTIONS DECISION-MAKING OF MARCUS RASHFORD CAMP AFTER RECENT COMMENTS",
@@ -151,7 +151,7 @@
       "page": "http://www.fawanews.sc/Ruben Amorim questions decision-making of Marcus Rashford camp after recent comments.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553295+00:00",
-      "last_checked": "2026-10-10T06:45:06.103079+00:00"
+      "last_checked": "2026-10-10T08:39:52.552872+00:00"
     },
     "http://www.fawanews.sc/Fernandez feeling very good at Chelsea after understanding what Maresca wants.html": {
       "title": "FERNANDEZ FEELING VERY GOOD AT CHELSEA AFTER UNDERSTANDING WHAT MARESCA WANTS",
@@ -159,7 +159,7 @@
       "page": "http://www.fawanews.sc/Fernandez feeling very good at Chelsea after understanding what Maresca wants.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553297+00:00",
-      "last_checked": "2026-10-10T06:45:06.194340+00:00"
+      "last_checked": "2026-10-10T08:39:52.645342+00:00"
     },
     "http://www.fawanews.sc/Ivan Juric promises to play death metal style of football with Southampton.html": {
       "title": "IVAN JURIC PROMISES TO PLAY DEATH METAL STYLE OF FOOTBALL WITH SOUTHAMPTON",
@@ -167,7 +167,7 @@
       "page": "http://www.fawanews.sc/Ivan Juric promises to play death metal style of football with Southampton.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553299+00:00",
-      "last_checked": "2026-10-10T06:45:06.285690+00:00"
+      "last_checked": "2026-10-10T08:39:52.739825+00:00"
     },
     "http://www.fawanews.sc/Eddie_Howe_Newcastle_defender_Dan_Sterling_England_desire_is_still_alive.html": {
       "title": "EDDIE HOWE: NEWCASTLE DEFENDER DAN BURNВЂВS ENGLAND DESIRE IS STILL ALIVE",
@@ -175,7 +175,7 @@
       "page": "http://www.fawanews.sc/Eddie_Howe_Newcastle_defender_Dan_Sterling_England_desire_is_still_alive.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553301+00:00",
-      "last_checked": "2026-10-10T06:45:06.376676+00:00"
+      "last_checked": "2026-10-10T08:39:52.832896+00:00"
     },
     "http://www.fawanews.sc/Everton_to_review_security_after_high-risk_game.html": {
       "title": "EVERTON TO REVIEW SECURITY AFTER HIGH-RISK GAME",
@@ -183,7 +183,7 @@
       "page": "http://www.fawanews.sc/Everton_to_review_security_after_high-risk_game.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553302+00:00",
-      "last_checked": "2026-10-10T06:45:06.557928+00:00"
+      "last_checked": "2026-10-10T08:39:53.016878+00:00"
     },
     "http://www.fawanews.sc/Wolves_agree_fee_for_PSG_and_Spain_Wingser_Sarabia.html": {
       "title": "WOLVES AGREE FEE FOR PSG & SPAIN WINGSER SARABIA",
@@ -191,7 +191,7 @@
       "page": "http://www.fawanews.sc/Wolves_agree_fee_for_PSG_and_Spain_Wingser_Sarabia.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553304+00:00",
-      "last_checked": "2026-10-10T06:45:06.650538+00:00"
+      "last_checked": "2026-10-10T08:39:53.109045+00:00"
     },
     "http://www.fawanews.sc/Gavi_stars_in_Barcelonas_Super_Cup_win_over_Real.html": {
       "title": "GAVI STARS IN BARCELONA'S SUPER CUP WIN OVER REAL",
@@ -199,7 +199,7 @@
       "page": "http://www.fawanews.sc/Gavi_stars_in_Barcelonas_Super_Cup_win_over_Real.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553306+00:00",
-      "last_checked": "2026-10-10T06:45:06.831518+00:00"
+      "last_checked": "2026-10-10T08:39:53.292526+00:00"
     },
     "http://www.fawanews.sc/Bournemouth_agree_ВЈ20m_deal_for_Lorients_Ouattara.html": {
       "title": "BOURNEMOUTH AGREE ВЈ20M DEAL FOR LORIENT'S OUATTARA",
@@ -207,7 +207,7 @@
       "page": "http://www.fawanews.sc/Bournemouth_agree_ВЈ20m_deal_for_Lorients_Ouattara.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553308+00:00",
-      "last_checked": "2026-10-10T06:45:06.922549+00:00"
+      "last_checked": "2026-10-10T08:39:53.384565+00:00"
     },
     "http://www.fawanews.sc/Why_Arsenal_are_in_control_of_the_title_race.html": {
       "title": "WHY ARSENAL ARE IN CONTROL OF THE TITLE RACE",
@@ -215,7 +215,7 @@
       "page": "http://www.fawanews.sc/Why_Arsenal_are_in_control_of_the_title_race.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553310+00:00",
-      "last_checked": "2026-10-10T06:45:07.103670+00:00"
+      "last_checked": "2026-10-10T08:39:53.568454+00:00"
     },
     "http://www.fawanews.sc/Forestt_seal_signing_of_Palmeiras_midfielder_Danilo.html": {
       "title": "FORESTT SEAL SIGNING OF PALMEIRAS MIDFIELDER DANILO",
@@ -223,7 +223,7 @@
       "page": "http://www.fawanews.sc/Forestt_seal_signing_of_Palmeiras_midfielder_Danilo.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553312+00:00",
-      "last_checked": "2026-10-10T06:45:07.195600+00:00"
+      "last_checked": "2026-10-10T08:39:53.661555+00:00"
     },
     "http://www.fawanews.sc/22m_of_Mudryk_fee_pledged_to_Ukraine_war_effort.html": {
       "title": "ВЈ22M OF MUDRYK FEE PLEDGED TO UKRAINE WAR EFFORT",
@@ -231,7 +231,7 @@
       "page": "http://www.fawanews.sc/22m_of_Mudryk_fee_pledged_to_Ukraine_war_effort.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553316+00:00",
-      "last_checked": "2026-10-10T06:45:07.376585+00:00"
+      "last_checked": "2026-10-10T08:39:53.845237+00:00"
     },
     "http://www.fawanews.sc/Klopp_says_he_has_no_plans_to_leave_Liverpool.html": {
       "title": "KLOPP SAYS HE HAS NO PLANS TO LEAVE LIVERPOOL",
@@ -239,7 +239,70 @@
       "page": "http://www.fawanews.sc/Klopp_says_he_has_no_plans_to_leave_Liverpool.html",
       "url": null,
       "first_seen": "2026-10-10T06:45:04.553318+00:00",
-      "last_checked": "2026-10-10T06:45:07.467625+00:00"
+      "last_checked": "2026-10-10T08:39:53.937758+00:00"
+    },
+    "http://www.fawanews.sc/Formula 1 GP Singapore.html": {
+      "title": "FORMULA 1 GP SINGAPORE",
+      "playing": "Formula 1 GP --:--",
+      "page": "http://www.fawanews.sc/Formula 1 GP Singapore.html",
+      "url": "http://193.47.62.55/hls/NNNN.m3u8",
+      "first_seen": "2026-10-10T08:39:50.970427+00:00",
+      "last_checked": "2026-10-10T08:39:54.121340+00:00",
+      "last_stream_found": "2026-10-10T08:39:54.212602+00:00"
+    },
+    "http://www.fawanews.sc/South Melbourne vs Melbourne Victory.html": {
+      "title": "SOUTH MELBOURNE VS MELBOURNE VICTORY",
+      "playing": "Australia Cup 09:30",
+      "page": "http://www.fawanews.sc/South Melbourne vs Melbourne Victory.html",
+      "url": "http://193.47.62.41/hls/JRRRAAA.m3u8",
+      "first_seen": "2026-10-10T08:39:50.970445+00:00",
+      "last_checked": "2026-10-10T08:39:54.213338+00:00",
+      "last_stream_found": "2026-10-10T08:39:54.304537+00:00"
+    },
+    "http://www.fawanews.sc/PSIM Yogyakarta vs Persija Jakarta.html": {
+      "title": "PSIM YOGYAKARTA VS PERSIJA JAKARTA",
+      "playing": "Indonesia Liga 1 09:30",
+      "page": "http://www.fawanews.sc/PSIM Yogyakarta vs Persija Jakarta.html",
+      "url": "http://193.47.62.41/hls/JRRRAA.m3u8",
+      "first_seen": "2026-10-10T08:39:50.970448+00:00",
+      "last_checked": "2026-10-10T08:39:54.305253+00:00",
+      "last_stream_found": "2026-10-10T08:39:54.396677+00:00"
+    },
+    "http://www.fawanews.sc/Persita vs Garudayaksa.html": {
+      "title": "PERSITA VS GARUDAYAKSA",
+      "playing": "Indonesia Liga 1 09:30",
+      "page": "http://www.fawanews.sc/Persita vs Garudayaksa.html",
+      "url": "http://193.47.62.41/hls/JRRRA.m3u8",
+      "first_seen": "2026-10-10T08:39:50.970450+00:00",
+      "last_checked": "2026-10-10T08:39:54.397399+00:00",
+      "last_stream_found": "2026-10-10T08:39:54.488624+00:00"
+    },
+    "http://www.fawanews.sc/Arema FC vs FC Bhayangkara.html": {
+      "title": "AREMA FC VS FC BHAYANGKARA",
+      "playing": "Indonesia Liga 1 09:30",
+      "page": "http://www.fawanews.sc/Arema FC vs FC Bhayangkara.html",
+      "url": "http://193.47.62.41/hls/JRRR.m3u8",
+      "first_seen": "2026-10-10T08:39:50.970451+00:00",
+      "last_checked": "2026-10-10T08:39:54.489336+00:00",
+      "last_stream_found": "2026-10-10T08:39:54.580591+00:00"
+    },
+    "http://www.fawanews.sc/Chindia Targoviste vs Concordia.html": {
+      "title": "CHINDIA TARGOVISTE VS CONCORDIA",
+      "playing": "Romania Liga 2 09:00",
+      "page": "http://www.fawanews.sc/Chindia Targoviste vs Concordia.html",
+      "url": "http://193.47.62.41/hls/IIIIAAA.m3u8",
+      "first_seen": "2026-10-10T08:39:50.970453+00:00",
+      "last_checked": "2026-10-10T08:39:54.581288+00:00",
+      "last_stream_found": "2026-10-10T08:39:54.672432+00:00"
+    },
+    "http://www.fawanews.sc/South Africa vs Australia.html": {
+      "title": "SOUTH AFRICA VS AUSTRALIA",
+      "playing": "Cricket 08:00",
+      "page": "http://www.fawanews.sc/South Africa vs Australia.html",
+      "url": "http://193.47.62.50/hls/HHHHRX.m3u8",
+      "first_seen": "2026-10-10T08:39:50.970455+00:00",
+      "last_checked": "2026-10-10T08:39:54.673305+00:00",
+      "last_stream_found": "2026-10-10T08:39:54.764623+00:00"
     }
   }
 }
