@@ -1,0 +1,23 @@
+
+# Auto-update settings
+website:
+  base_url: "http://www.fawanews.sc/"
+  timeout: 20
+
+update:
+  interval_hours: 1
+  run_immediately: true
+  preserve_old_events: true
+  force_refresh_streams: true
+
+files:
+  playlist: "playlist.m3u"
+  event_database: "events.json"
+  log_file: "updater.log"
+
+playlist:
+  group_title: "LIVE EVENTS"
+  logo: "https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg"
+
+http:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
