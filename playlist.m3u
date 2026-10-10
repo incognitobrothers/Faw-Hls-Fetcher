@@ -3,132 +3,55 @@
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.50/hls/ffffa.m3u8
 
 #EXTINF:-1 tvg-name="GIMCHEON SANGMU VS ANYANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",GIMCHEON SANGMU VS ANYANG
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.41/hls/IIIIAAAA.m3u8
 
 #EXTINF:-1 tvg-name="FC TOKYO VS URAWA REDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",FC TOKYO VS URAWA REDS
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.41/hls/IIIIAAA.m3u8
 
 #EXTINF:-1 tvg-name="AVISPA FUKUOKA VS OKAYAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",AVISPA FUKUOKA VS OKAYAMA
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.41/hls/IIIIAA.m3u8
 
 #EXTINF:-1 tvg-name="CEREZO OSAKA VS YOKOHAMA F MARINOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",CEREZO OSAKA VS YOKOHAMA F MARINOS
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.41/hls/IIIIA.m3u8
 
 #EXTINF:-1 tvg-name="SEOUL VS JEJU SK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",SEOUL VS JEJU SK
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.41/hls/IIII.m3u8
 
 #EXTINF:-1 tvg-name="MOTOGP GRAND PRIX OF INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",MOTOGP GRAND PRIX OF INDONESIA
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.50/hls/HHHHRAAA.m3u8
 
 #EXTINF:-1 tvg-name="GOLF PGA BAYCURRENT CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",GOLF PGA BAYCURRENT CLASSIC
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.44/hls/CTTTT.m3u8
-
-#EXTINF:-1 tvg-name="TIGRES UANL VS TOLUCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",TIGRES UANL VS TOLUCA
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.50/hls/AZZZ.m3u8
-
-#EXTINF:-1 tvg-name="BRIGHAM YOUNG VS IOWA STATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",BRIGHAM YOUNG VS IOWA STATE
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.44/hls/QIIIAAA.m3u8
-
-#EXTINF:-1 tvg-name="BC LIONS VS OTTAWA REDBLACKS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",BC LIONS VS OTTAWA REDBLACKS
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/QIIIAA.m3u8
-
-#EXTINF:-1 tvg-name="LAS VEGAS ACES W VS GOLDEN STATE VALKYRIES W --- CH 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",LAS VEGAS ACES W VS GOLDEN STATE VALKYRIES W --- CH 1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/QIIIA.m3u8
-
-#EXTINF:-1 tvg-name="LAS VEGAS ACES W VS GOLDEN STATE VALKYRIES W --- CH 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",LAS VEGAS ACES W VS GOLDEN STATE VALKYRIES W --- CH 2
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/36f63d82-8e68-4088-b8b6-fe035607b717.m3u8
-
-#EXTINF:-1 tvg-name="NORTH HARBOUR VS TARANAKI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",NORTH HARBOUR VS TARANAKI
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.50/hls/ffff.m3u8
-
-#EXTINF:-1 tvg-name="ONCE CALDAS VS LLANEROS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",ONCE CALDAS VS LLANEROS
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/QIII.m3u8
-
-#EXTINF:-1 tvg-name="WASHINGTON HUSKIES VS IOWA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",WASHINGTON HUSKIES VS IOWA
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.55/hls/JTTTAAAA.m3u8
-
-#EXTINF:-1 tvg-name="UTAH STATE VS WASHINGTON STATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",UTAH STATE VS WASHINGTON STATE
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.55/hls/JTTTAAA.m3u8
-
-#EXTINF:-1 tvg-name="SAN JOSE STATE VS WYOMING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",SAN JOSE STATE VS WYOMING
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.50/hls/JTTTAA.m3u8
-
-#EXTINF:-1 tvg-name="MMA BKFC : CISNEROS VS PETERSEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg" group-title="LIVE EVENTS",MMA BKFC : CISNEROS VS PETERSEN
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer":"http://www.fawanews.sc/","origin":"http://www.fawanews.sc","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.50/hls/AZZZd.m3u8
 
