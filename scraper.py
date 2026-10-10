@@ -1,3 +1,4 @@
+
 import requests
 import re
 import html
@@ -14,7 +15,7 @@ USER_AGENT = (
 REFERER = BASE_URL
 ORIGIN = BASE_URL.rstrip("/")
 
-CRICKET_LOGO = (
+EVENT_LOGO = (
     "https://upload.wikimedia.org/wikipedia/commons/8/89/Cricket_ball.svg"
 )
 
@@ -25,36 +26,17 @@ HEADERS = {
     "Accept": (
         "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
     ),
+    "Connection": "keep-alive",
 }
 
 
-def is_cricket_event(title, playing):
-    """
-    Homepage-এর event category দেখে cricket match শনাক্ত করে।
-    """
-    title = (title or "").strip()
-    playing = (playing or "").strip()
-
-    # Explicit cricket category থাকলেই গ্রহণ করবে।
-    if re.search(r"\bcricket\b", playing, re.IGNORECASE):
-        return True
-
-    # অন্য sport হলে বাদ।
-    if re.search(
-        r"\b(football|soccer|basketball|tennis|badminton|"
-        r"volleyball|rugby|hockey|baseball|golf|boxing|"
-        r"mma|ufc|motogp|darts|horse racing)\b",
-        playing,
-        re.IGNORECASE,
-    ):
-        return False
-
-    # শুধু দুই দলের নাম বা VS দেখে ক্রিকেট অনুমান করবে না।
-    return False
+def is_valid_event(title, playing):
+    """সব ধরনের event গ্রহণ করবে।"""
+    return bool((title or "").strip() or (playing or "").strip())
 
 
-def get_cricket_links():
-    response = requests.get(
+def get_all_match_links(session):
+    response = session.get(
         BASE_URL,
         headers=HEADERS,
         timeout=20,
@@ -69,22 +51,25 @@ def get_cricket_links():
         name_element = card.select_one(".user-item__name")
         playing_element = card.select_one(".user-item__playing")
 
-        if not name_element or not playing_element:
+        if not name_element:
             continue
 
         title = name_element.get_text(" ", strip=True)
-        playing = playing_element.get_text(" ", strip=True)
+        playing = (
+            playing_element.get_text(" ", strip=True)
+            if playing_element else ""
+        )
 
-        if not is_cricket_event(title, playing):
+        if not is_valid_event(title, playing):
             continue
 
-        # Match card-এর ভেতরের relative URL নেবে।
         link_element = card.select_one("a[href]")
         if not link_element:
             continue
 
         page_url = urljoin(BASE_URL, link_element["href"])
 
+        # শুধু একই ওয়েবসাইটের লিংক গ্রহণ করবে।
         if urlparse(page_url).netloc != urlparse(BASE_URL).netloc:
             continue
 
@@ -102,17 +87,20 @@ def get_cricket_links():
     return results
 
 
-def extract_m3u8(page_url):
+def extract_m3u8(session, page_url):
     try:
-        response = requests.get(
+        response = session.get(
             page_url,
-            headers=HEADERS,
+            headers={
+                **HEADERS,
+                "Referer": BASE_URL,
+            },
             timeout=20,
         )
         response.raise_for_status()
         page_html = response.text
 
-        # d1 + d2 + d3 stream pattern
+        # Encoded d1 + d2 + d3 stream pattern
         d1 = re.search(
             r"""var\s+d1\s*=\s*["']([^"']+)["']""",
             page_html,
@@ -130,10 +118,12 @@ def extract_m3u8(page_url):
             stream_url = (
                 d1.group(1) + d2.group(1) + d3.group(1)
             )
+            stream_url = html.unescape(stream_url)
+
         else:
-            # Direct m3u8 URL
+            # Direct M3U8 URL
             match = re.search(
-                r"""https?://[^\s"'<>]+\.m3u8(?:\?[^\s"'<>]*)?""",
+                r"""https?://[^\s"'<>\\]+\.m3u8(?:\?[^\s"'<>]*)?""",
                 page_html,
                 re.IGNORECASE,
             )
@@ -143,6 +133,13 @@ def extract_m3u8(page_url):
                 return None
 
             stream_url = html.unescape(match.group(0))
+
+        # Basic URL validation
+        parsed = urlparse(stream_url)
+
+        if parsed.scheme not in ("http", "https") or not parsed.netloc:
+            print(f"INVALID STREAM URL: {page_url}")
+            return None
 
         return stream_url
 
@@ -168,15 +165,12 @@ def build_m3u(items, out_file="playlist.m3u"):
         file.write("#EXTM3U\n")
 
         for item in unique_items:
-            title = item["title"]
-
-            # Prevent quotes from breaking M3U attributes.
-            safe_title = title.replace('"', "'")
+            title = item["title"].replace('"', "'")
 
             file.write(
-                f'#EXTINF:-1 tvg-name="{safe_title}" '
-                f'tvg-logo="{CRICKET_LOGO}" '
-                f'group-title="TOP EVENTS",{safe_title}\n'
+                f'#EXTINF:-1 tvg-name="{title}" '
+                f'tvg-logo="{EVENT_LOGO}" '
+                f'group-title="LIVE EVENTS",{title}\n'
             )
 
             file.write(
@@ -191,42 +185,53 @@ def build_m3u(items, out_file="playlist.m3u"):
 
             file.write(
                 "#EXTHTTP:"
-                '{"referer":"' + REFERER + '",'
-                '"origin":"' + ORIGIN + '",'
-                '"user-agent":"' + USER_AGENT + '"}\n'
+                + '{"referer":"' + REFERER + '",'
+                + '"origin":"' + ORIGIN + '",'
+                + '"user-agent":"' + USER_AGENT + '"}\n'
             )
 
             file.write(item["url"] + "\n\n")
 
     print(f"\nPlaylist saved: {out_file}")
-    print(f"Total cricket streams: {len(unique_items)}")
+    print(f"Total unique streams: {len(unique_items)}")
 
 
 def main():
-    try:
-        matches = get_cricket_links()
-        print(f"Cricket matches found: {len(matches)}")
+    with requests.Session() as session:
+        try:
+            matches = get_all_match_links(session)
+            print(f"Total events found: {len(matches)}")
 
-        playlist_items = []
+            playlist_items = []
 
-        for match in matches:
-            print(f"Checking: {match['title']}")
+            for index, match in enumerate(matches, start=1):
+                print(
+                    f"\n[{index}/{len(matches)}] "
+                    f"Checking: {match['title']}"
+                )
+                print(f"Category: {match['playing']}")
 
-            stream_url = extract_m3u8(match["page"])
+                stream_url = extract_m3u8(
+                    session,
+                    match["page"],
+                )
 
-            if stream_url:
-                playlist_items.append({
-                    "title": match["title"],
-                    "url": stream_url,
-                })
-                print(f"STREAM FOUND: {match['title']}")
-            else:
-                print(f"STREAM NOT FOUND: {match['title']}")
+                if stream_url:
+                    playlist_items.append({
+                        "title": match["title"],
+                        "url": stream_url,
+                    })
+                    print(f"STREAM FOUND: {match['title']}")
+                else:
+                    print(f"STREAM NOT FOUND: {match['title']}")
 
-        build_m3u(playlist_items)
+            build_m3u(playlist_items)
 
-    except requests.RequestException as error:
-        print(f"Website error: {error}")
+        except requests.RequestException as error:
+            print(f"Website error: {error}")
+
+        except OSError as error:
+            print(f"FILE ERROR: {error}")
 
 
 if __name__ == "__main__":
