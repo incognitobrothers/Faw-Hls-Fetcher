@@ -596,7 +596,7 @@
   },
   {
     "name": "WATFORD VS BURNLEY",
-    "m3u": "http://193.47.62.55/hls/KSSSAQQQQAAAA.m3u8",
+    "m3u": "http://193.47.62.55/hls/KSSSAQQQQAAAAX.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
@@ -1290,6 +1290,125 @@
   {
     "name": "AL HAZEM VS NEOM SC --- CH 2",
     "m3u": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "MJALLBY VS DEGERFORS --- CH 1",
+    "m3u": "http://193.47.62.41/hls/EOOOOAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "MJALLBY VS DEGERFORS --- CH 2",
+    "m3u": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "SLASK WROCLAW VS LECH POZNAN",
+    "m3u": "http://193.47.62.41/hls/EOOOOA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "CELJE VS ALUMINIJ",
+    "m3u": "http://193.47.62.41/hls/EOOOO.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LILLE VS LE HAVRE --- CH 1",
+    "m3u": "http://193.47.62.41/hls/hyhyhyAAAAAQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LILLE VS LE HAVRE --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/87b7069d-1f48-4d0d-9d83-49a580572aab.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LR VICENZA VS PISA",
+    "m3u": "http://193.47.62.41/hls/hyhyhyAAAAAQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "KRASAVA VS APOLLON",
+    "m3u": "http://193.47.62.41/hls/hyhyhyAAAAAQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "CUKARICKI VS MACVA",
+    "m3u": "http://193.47.62.41/hls/hyhyhyAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "FERENCVAROS VS DEBRECEN",
+    "m3u": "http://193.47.62.41/hls/hyhyhyAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "TIROL VS RIED",
+    "m3u": "http://193.47.62.41/hls/hyhyhyAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "GRAZER AK VS SALZBURG",
+    "m3u": "http://193.47.62.41/hls/hyhyhyA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "AL ETTIFAQ VS AL KHALEEJ",
+    "m3u": "http://193.47.62.41/hls/hyhyhy.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "USA PERPIGNAN VS VANNES",
+    "m3u": "http://193.47.62.41/hls/APPPQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "SECTION PALOISE VS CASTRES OLYMPIQUE",
+    "m3u": "http://193.47.62.41/hls/APPPQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "RC TOULONNAIS VS RACING 92",
+    "m3u": "http://193.47.62.41/hls/APPPQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LYON VS STADE ROCHELAIS",
+    "m3u": "http://193.47.62.41/hls/APPP.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
