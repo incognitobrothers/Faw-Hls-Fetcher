@@ -1,4 +1,3 @@
-
 import os
 import re
 import html
@@ -36,7 +35,7 @@ EVENTS_FILE = "events.json"
 PLAYLIST_FILE = "playlist.m3u"
 
 EVENT_LOGO = (
-    "https://i.ibb.co/dwgyr6t4/live.jpg"
+    "https://static.wikia.nocookie.net/logopedia/images/9/91/TenHD-India.png"
 )
 
 HEADERS = {
