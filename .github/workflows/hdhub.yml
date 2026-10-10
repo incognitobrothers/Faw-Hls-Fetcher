@@ -1,4 +1,4 @@
-name: Playlist Auto Update
+name: Hdhub Auto Update
 
 on:
 workflow_dispatch:
@@ -9,7 +9,7 @@ permissions:
 contents: write
 
 concurrency:
-group: playlist-auto-update
+group: hdhub-auto-update
 cancel-in-progress: false
 
 jobs:
@@ -17,28 +17,34 @@ update-playlist:
 runs-on: ubuntu-latest
 
 steps:
-  - name: Checkout repository
+  - name: Checkout Repository
     uses: actions/checkout@v4
+    with:
+      persist-credentials: true
 
   - name: Setup Python
     uses: actions/setup-python@v5
     with:
       python-version: "3.12"
 
-  - name: Install dependencies
-    run: pip install -r requirements.txt
+  - name: Install Dependencies
+    run: |
+      python -m pip install --upgrade pip
+      pip install curl_cffi beautifulsoup4 pyyaml
 
-  - name: Run playlist updater
+  - name: Run Hdhub Script
     run: python hdhub.py
 
-  - name: Commit updated playlist
+  - name: Commit and Push Changes
     run: |
       git config user.name "github-actions[bot]"
       git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       git add hdhub.m3u
+
       if ! git diff --cached --quiet; then
         git commit -m "Auto-update playlist"
         git push
       else
-        echo "Playlist unchanged; no commit needed."
+        echo "No playlist changes detected."
       fi
