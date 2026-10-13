@@ -5,7 +5,7 @@ import os
 def grab(url):
     response = requests.get(url, timeout = 15).text
     if '.m3u8' not in response:
-        print("https://www.youtube.com/watch?v=1oh9IEwBbFY")
+        print("https://www.youtube.com/live/N0kEPv9mXTg?si=VieTEgpuVzqlKVth")
         return
     end = response.find('.m3u8') + 5
     tuner = 100
