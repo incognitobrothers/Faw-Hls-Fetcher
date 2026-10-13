@@ -1,24 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LOS ANGELES RAMS VS BUFFALO BILLS --- CH 3" tvg-logo="" group-title="LIVE EVENTS",LOS ANGELES RAMS VS BUFFALO BILLS --- CH 3
+#EXTINF:-1 tvg-name="SHANGHAI PORT VS DAEJEON --- CH 1" tvg-logo="" group-title="LIVE EVENTS",SHANGHAI PORT VS DAEJEON --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://admin2.formaturamaxi.com.br/nfl.m3u8
+http://193.47.62.41/hls/BABABAAA.m3u8
 
-#EXTINF:-1 tvg-name="NEWCASTLE JETS VS GAMBA OSAKA --- CH 1" tvg-logo="" group-title="LIVE EVENTS",NEWCASTLE JETS VS GAMBA OSAKA --- CH 1
+#EXTINF:-1 tvg-name="SHANGHAI PORT VS DAEJEON --- CH 2" tvg-logo="" group-title="LIVE EVENTS",SHANGHAI PORT VS DAEJEON --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.50/hls/REEE.m3u8
+https://www.rtmpcdn.com/live/f325f4bc-3b78-4ad4-80c9-c77b65520d86.m3u8
 
-#EXTINF:-1 tvg-name="NEWCASTLE JETS VS GAMBA OSAKA --- CH 2" tvg-logo="" group-title="LIVE EVENTS",NEWCASTLE JETS VS GAMBA OSAKA --- CH 2
+#EXTINF:-1 tvg-name="POHANG VS JOHOR DT --- CH 1" tvg-logo="" group-title="LIVE EVENTS",POHANG VS JOHOR DT --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/79eed6c2-1233-4e93-a910-62f7421a6e07.m3u8
+http://193.47.62.41/hls/BABABAA.m3u8
+
+#EXTINF:-1 tvg-name="POHANG VS JOHOR DT --- CH 2" tvg-logo="" group-title="LIVE EVENTS",POHANG VS JOHOR DT --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://www.rtmpcdn.com/live/ba41a433-fdc3-4d61-a4b3-ec426b99d5aa.m3u8
+
+#EXTINF:-1 tvg-name="KYOTO VS RATCHABURI --- CH 1" tvg-logo="" group-title="LIVE EVENTS",KYOTO VS RATCHABURI --- CH 1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.41/hls/BABABA.m3u8
+
+#EXTINF:-1 tvg-name="KYOTO VS RATCHABURI --- CH 2" tvg-logo="" group-title="LIVE EVENTS",KYOTO VS RATCHABURI --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://www.rtmpcdn.com/live/b77997dc-9ec8-4407-b5f5-1491143b5109.m3u8
 
 #EXTINF:-1 tvg-name="SOUTH AFRICA VS AUSTRALIA" tvg-logo="" group-title="LIVE EVENTS",SOUTH AFRICA VS AUSTRALIA
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
