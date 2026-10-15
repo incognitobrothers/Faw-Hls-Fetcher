@@ -6,243 +6,299 @@
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.41/hls/VBVBVB.m3u8
 
-#EXTINF:-1 tvg-name="CELJE VS OMONIA --- CH 1" tvg-logo="" group-title="LIVE EVENTS",CELJE VS OMONIA --- CH 1
+#EXTINF:-1 tvg-name="MANSFIELD VS OXFORD UTD" tvg-logo="" group-title="LIVE EVENTS",MANSFIELD VS OXFORD UTD
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.50/hls/DMMMAA.m3u8
+http://193.47.62.55/hls/GOOOA.m3u8
 
-#EXTINF:-1 tvg-name="CELJE VS OMONIA --- CH 2" tvg-logo="" group-title="LIVE EVENTS",CELJE VS OMONIA --- CH 2
+#EXTINF:-1 tvg-name="BENFICA VS CELTIC --- CH 1" tvg-logo="" group-title="LIVE EVENTS",BENFICA VS CELTIC --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/62e5472c-c0a1-4c12-bd87-53960bf41648.m3u8
+http://193.47.62.59/hls/GOOOAAA.m3u8
 
-#EXTINF:-1 tvg-name="TORREENSE VS SUNDERLAND --- CH 1" tvg-logo="" group-title="LIVE EVENTS",TORREENSE VS SUNDERLAND --- CH 1
+#EXTINF:-1 tvg-name="BENFICA VS CELTIC --- CH 2" tvg-logo="" group-title="LIVE EVENTS",BENFICA VS CELTIC --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.55/hls/3HHHAA.m3u8
+https://www.rtmpcdn.com/live/b420fdeb-e638-4447-a23e-f4fc4bf07822.m3u8
 
-#EXTINF:-1 tvg-name="TORREENSE VS SUNDERLAND --- CH 2" tvg-logo="" group-title="LIVE EVENTS",TORREENSE VS SUNDERLAND --- CH 2
+#EXTINF:-1 tvg-name="BOURNEMOUTH VS STURM GRAZ --- CH 1" tvg-logo="" group-title="LIVE EVENTS",BOURNEMOUTH VS STURM GRAZ --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/84eaf741-66df-4cff-b2cf-6c2c9043163f.m3u8
+http://193.47.62.59/hls/GOOOAAAA.m3u8
 
-#EXTINF:-1 tvg-name="SALZBURG VS AC MILAN --- CH 1" tvg-logo="" group-title="LIVE EVENTS",SALZBURG VS AC MILAN --- CH 1
+#EXTINF:-1 tvg-name="BOURNEMOUTH VS STURM GRAZ --- CH 2" tvg-logo="" group-title="LIVE EVENTS",BOURNEMOUTH VS STURM GRAZ --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.55/hls/3HHHA.m3u8
+https://www.rtmpcdn.com/live/f6f8dc34-098a-4087-bd23-4d2fd40d0fac.m3u8
 
-#EXTINF:-1 tvg-name="SALZBURG VS AC MILAN --- CH 2" tvg-logo="" group-title="LIVE EVENTS",SALZBURG VS AC MILAN --- CH 2
+#EXTINF:-1 tvg-name="MARSEILLE VS OLYMPIACOS --- CH 1" tvg-logo="" group-title="LIVE EVENTS",MARSEILLE VS OLYMPIACOS --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/5906c892-ec5f-42eb-acf7-6769b4f44ca3.m3u8
+http://193.47.62.55/hls/GOOO.m3u8
 
-#EXTINF:-1 tvg-name="ROYALE UNION SG VS REAL SOCIEDAD --- CH 1" tvg-logo="" group-title="LIVE EVENTS",ROYALE UNION SG VS REAL SOCIEDAD --- CH 1
+#EXTINF:-1 tvg-name="MARSEILLE VS OLYMPIACOS --- CH 2" tvg-logo="" group-title="LIVE EVENTS",MARSEILLE VS OLYMPIACOS --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.55/hls/3HHH.m3u8
+https://www.rtmpcdn.com/live/dde626d7-b157-4c16-a3d1-59fb311a7b9e.m3u8
 
-#EXTINF:-1 tvg-name="ROYALE UNION SG VS REAL SOCIEDAD --- CH 2" tvg-logo="" group-title="LIVE EVENTS",ROYALE UNION SG VS REAL SOCIEDAD --- CH 2
+#EXTINF:-1 tvg-name="HEARTS VS NORDSJAELLAND --- CH 1" tvg-logo="" group-title="LIVE EVENTS",HEARTS VS NORDSJAELLAND --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/fa30af30-b29e-41dc-8844-42e90c26b204.m3u8
+http://193.47.62.50/hls/K333.m3u8
 
-#EXTINF:-1 tvg-name="LYON VS CRYSTAL PALACE --- CH 1" tvg-logo="" group-title="LIVE EVENTS",LYON VS CRYSTAL PALACE --- CH 1
+#EXTINF:-1 tvg-name="HEARTS VS NORDSJAELLAND --- CH 2" tvg-logo="" group-title="LIVE EVENTS",HEARTS VS NORDSJAELLAND --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.50/hls/DMMMA.m3u8
+https://www.rtmpcdn.com/live/e815ec96-5d86-44b6-9656-643b1474e073.m3u8
 
-#EXTINF:-1 tvg-name="LYON VS CRYSTAL PALACE --- CH 2" tvg-logo="" group-title="LIVE EVENTS",LYON VS CRYSTAL PALACE --- CH 2
+#EXTINF:-1 tvg-name="ATALANTA VS PAFOS --- CH 1" tvg-logo="" group-title="LIVE EVENTS",ATALANTA VS PAFOS --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/7f83d6a8-45e4-4933-996f-8f56aba4bab4.m3u8
+http://193.47.62.44/hls/8BBBA.m3u8
 
-#EXTINF:-1 tvg-name="LECH POZNAN VS BAYER LEVERKUSEN --- CH 1" tvg-logo="" group-title="LIVE EVENTS",LECH POZNAN VS BAYER LEVERKUSEN --- CH 1
+#EXTINF:-1 tvg-name="ATALANTA VS PAFOS --- CH 2" tvg-logo="" group-title="LIVE EVENTS",ATALANTA VS PAFOS --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.50/hls/DMMM.m3u8
+https://www.rtmpcdn.com/live/c0f7760a-a528-4dad-9878-b06a4d9726f6.m3u8
 
-#EXTINF:-1 tvg-name="LECH POZNAN VS BAYER LEVERKUSEN --- CH 2" tvg-logo="" group-title="LIVE EVENTS",LECH POZNAN VS BAYER LEVERKUSEN --- CH 2
+#EXTINF:-1 tvg-name="BRIGHTON VS KAUNO ZALGIRIS --- CH 1" tvg-logo="" group-title="LIVE EVENTS",BRIGHTON VS KAUNO ZALGIRIS --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/b5d8712a-132c-4b4c-b491-af5444636d85.m3u8
+http://193.47.62.44/hls/8BBB.m3u8
 
-#EXTINF:-1 tvg-name="AZ ALKMAAR VS H BEER SHEVA --- CH 1" tvg-logo="" group-title="LIVE EVENTS",AZ ALKMAAR VS H BEER SHEVA --- CH 1
+#EXTINF:-1 tvg-name="BRIGHTON VS KAUNO ZALGIRIS --- CH 2" tvg-logo="" group-title="LIVE EVENTS",BRIGHTON VS KAUNO ZALGIRIS --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.44/hls/GYGYGYAA.m3u8
+https://www.rtmpcdn.com/live/d2a68645-3cb2-4e1d-b524-a161da531bb7.m3u8
 
-#EXTINF:-1 tvg-name="SPARTA PRAGUE VS LILLESTROM" tvg-logo="" group-title="LIVE EVENTS",SPARTA PRAGUE VS LILLESTROM
+#EXTINF:-1 tvg-name="RENNES VS OFI CRETE --- CH 1" tvg-logo="" group-title="LIVE EVENTS",RENNES VS OFI CRETE --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.44/hls/GYGYGYA.m3u8
+http://193.47.62.55/hls/K333AAAAA.m3u8
 
-#EXTINF:-1 tvg-name="PANATHINAIKOS VS BORAC BANJA LUKA --- CH 1" tvg-logo="" group-title="LIVE EVENTS",PANATHINAIKOS VS BORAC BANJA LUKA --- CH 1
+#EXTINF:-1 tvg-name="RENNES VS OFI CRETE --- CH 2" tvg-logo="" group-title="LIVE EVENTS",RENNES VS OFI CRETE --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.44/hls/GYGYGY.m3u8
+https://www.rtmpcdn.com/live/a2cd08e1-e229-4028-96a2-4c4a5bc54b40.m3u8
 
-#EXTINF:-1 tvg-name="PANATHINAIKOS VS BORAC BANJA LUKA --- CH 2" tvg-logo="" group-title="LIVE EVENTS",PANATHINAIKOS VS BORAC BANJA LUKA --- CH 2
+#EXTINF:-1 tvg-name="CELTA VIGO VS JUVENTUS --- CH 1" tvg-logo="" group-title="LIVE EVENTS",CELTA VIGO VS JUVENTUS --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/c3732e5a-108e-4ef9-8596-8ef6d87bfb16.m3u8
+http://193.47.62.50/hls/K333AAAA.m3u8
 
-#EXTINF:-1 tvg-name="HAJDUK SPLIT VS AJAX --- CH 1" tvg-logo="" group-title="LIVE EVENTS",HAJDUK SPLIT VS AJAX --- CH 1
+#EXTINF:-1 tvg-name="CELTA VIGO VS JUVENTUS --- CH 2" tvg-logo="" group-title="LIVE EVENTS",CELTA VIGO VS JUVENTUS --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/ZKKKAAAAQAAA.m3u8
+https://www.rtmpcdn.com/live/465e31ef-beba-44f8-a284-045e8d0db79f.m3u8
 
-#EXTINF:-1 tvg-name="HAJDUK SPLIT VS AJAX --- CH 2" tvg-logo="" group-title="LIVE EVENTS",HAJDUK SPLIT VS AJAX --- CH 2
+#EXTINF:-1 tvg-name="NEC NIJMEGEN VS LEVSKI SOFIA --- CH 1" tvg-logo="" group-title="LIVE EVENTS",NEC NIJMEGEN VS LEVSKI SOFIA --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/9fe31447-623d-4029-bf14-f4e554ce45d1.m3u8
+http://193.47.62.50/hls/K333AAA.m3u8
 
-#EXTINF:-1 tvg-name="CSKA SOFIA VS AS MONACO --- CH 1" tvg-logo="" group-title="LIVE EVENTS",CSKA SOFIA VS AS MONACO --- CH 1
+#EXTINF:-1 tvg-name="NEC NIJMEGEN VS LEVSKI SOFIA --- CH 2" tvg-logo="" group-title="LIVE EVENTS",NEC NIJMEGEN VS LEVSKI SOFIA --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/ZKKKAAAAQAA.m3u8
+https://www.rtmpcdn.com/live/d6f61259-c808-488a-940b-a34fb510b4b7.m3u8
 
-#EXTINF:-1 tvg-name="CSKA SOFIA VS AS MONACO --- CH 2" tvg-logo="" group-title="LIVE EVENTS",CSKA SOFIA VS AS MONACO --- CH 2
+#EXTINF:-1 tvg-name="HOFFENHEIM VS BESIKTAS --- CH 1" tvg-logo="" group-title="LIVE EVENTS",HOFFENHEIM VS BESIKTAS --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/7fd2f092-0f11-4011-944d-e935a2d3648e.m3u8
+http://193.47.62.50/hls/K333AA.m3u8
 
-#EXTINF:-1 tvg-name="KUPS VS TRABZONSPOR --- CH 1" tvg-logo="" group-title="LIVE EVENTS",KUPS VS TRABZONSPOR --- CH 1
+#EXTINF:-1 tvg-name="HOFFENHEIM VS BESIKTAS --- CH 2" tvg-logo="" group-title="LIVE EVENTS",HOFFENHEIM VS BESIKTAS --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/ZKKKAAAAQA.m3u8
+https://www.rtmpcdn.com/live/89f0ff79-66eb-4c48-b7ef-cd49d60527f0.m3u8
 
-#EXTINF:-1 tvg-name="KUPS VS TRABZONSPOR --- CH 2" tvg-logo="" group-title="LIVE EVENTS",KUPS VS TRABZONSPOR --- CH 2
+#EXTINF:-1 tvg-name="FERENCVAROS VS PLZEN --- CH 1" tvg-logo="" group-title="LIVE EVENTS",FERENCVAROS VS PLZEN --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/ecb18d54-ec38-41bc-948d-60992f13ddad.m3u8
+http://193.47.62.50/hls/K333A.m3u8
 
-#EXTINF:-1 tvg-name="UNIV CRAIOVA VS GETAFE --- CH 1" tvg-logo="" group-title="LIVE EVENTS",UNIV CRAIOVA VS GETAFE --- CH 1
+#EXTINF:-1 tvg-name="FERENCVAROS VS PLZEN --- CH 2" tvg-logo="" group-title="LIVE EVENTS",FERENCVAROS VS PLZEN --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/ZKKKAAAAQ.m3u8
+https://www.rtmpcdn.com/live/326de1d6-b571-4e94-ba00-c9f57adc1032.m3u8
 
-#EXTINF:-1 tvg-name="UNIV CRAIOVA VS GETAFE --- CH 2" tvg-logo="" group-title="LIVE EVENTS",UNIV CRAIOVA VS GETAFE --- CH 2
+#EXTINF:-1 tvg-name="DINAMO ZAGREB VS RSC ANDERLECHT --- CH 1" tvg-logo="" group-title="LIVE EVENTS",DINAMO ZAGREB VS RSC ANDERLECHT --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/c8f675c7-6774-4f38-8e96-79c8567352e2.m3u8
+http://193.47.62.44/hls/8BBBAAA.m3u8
 
-#EXTINF:-1 tvg-name="RIGA FC VS KAIRAT ALMATY --- CH 1" tvg-logo="" group-title="LIVE EVENTS",RIGA FC VS KAIRAT ALMATY --- CH 1
+#EXTINF:-1 tvg-name="DINAMO ZAGREB VS RSC ANDERLECHT --- CH 2" tvg-logo="" group-title="LIVE EVENTS",DINAMO ZAGREB VS RSC ANDERLECHT --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/ZKKKAAAA.m3u8
+https://www.rtmpcdn.com/live/e58ce9d4-4d15-4805-a8e4-d477f257aecf.m3u8
 
-#EXTINF:-1 tvg-name="RIGA FC VS KAIRAT ALMATY --- CH 2" tvg-logo="" group-title="LIVE EVENTS",RIGA FC VS KAIRAT ALMATY --- CH 2
+#EXTINF:-1 tvg-name="JAGIELLONIA VS ARARAT-ARMENIA --- CH 1" tvg-logo="" group-title="LIVE EVENTS",JAGIELLONIA VS ARARAT-ARMENIA --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/e4c1c97f-c635-4a0e-ac60-a63e8929047b.m3u8
+http://193.47.62.44/hls/8BBBAA.m3u8
 
-#EXTINF:-1 tvg-name="MJALLBY VS INTER ESCALDES --- CH 1" tvg-logo="" group-title="LIVE EVENTS",MJALLBY VS INTER ESCALDES --- CH 1
+#EXTINF:-1 tvg-name="JAGIELLONIA VS ARARAT-ARMENIA --- CH 2" tvg-logo="" group-title="LIVE EVENTS",JAGIELLONIA VS ARARAT-ARMENIA --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/ZKKKAAA.m3u8
+https://www.rtmpcdn.com/live/53ffee88-8278-4033-96e2-b8c67f6e2374.m3u8
 
-#EXTINF:-1 tvg-name="MJALLBY VS INTER ESCALDES --- CH 2" tvg-logo="" group-title="LIVE EVENTS",MJALLBY VS INTER ESCALDES --- CH 2
+#EXTINF:-1 tvg-name="FC TWENTE VS THUN --- CH 1" tvg-logo="" group-title="LIVE EVENTS",FC TWENTE VS THUN --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/1392bda4-82e3-4c6a-adfa-71f811ce3ebb.m3u8
+http://193.47.62.41/hls/H999AAAA.m3u8
 
-#EXTINF:-1 tvg-name="GENT VS AARHUS --- CH 1" tvg-logo="" group-title="LIVE EVENTS",GENT VS AARHUS --- CH 1
+#EXTINF:-1 tvg-name="FC TWENTE VS THUN --- CH 2" tvg-logo="" group-title="LIVE EVENTS",FC TWENTE VS THUN --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/ZKKKAA.m3u8
+https://www.rtmpcdn.com/live/d0004171-cd1f-426d-9077-c458d14ad2ea.m3u8
 
-#EXTINF:-1 tvg-name="GENT VS AARHUS --- CH 2" tvg-logo="" group-title="LIVE EVENTS",GENT VS AARHUS --- CH 2
+#EXTINF:-1 tvg-name="STVV VS IBERIA 1999 --- CH 1" tvg-logo="" group-title="LIVE EVENTS",STVV VS IBERIA 1999 --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/17c52a2e-5134-46f5-be12-cc2f002c9502.m3u8
+http://193.47.62.41/hls/H999AAA.m3u8
 
-#EXTINF:-1 tvg-name="LUGANO VS CRVENA ZVEZDA --- CH 1" tvg-logo="" group-title="LIVE EVENTS",LUGANO VS CRVENA ZVEZDA --- CH 1
+#EXTINF:-1 tvg-name="STVV VS IBERIA 1999 --- CH 2" tvg-logo="" group-title="LIVE EVENTS",STVV VS IBERIA 1999 --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/ZKKKA.m3u8
+https://www.rtmpcdn.com/live/c02be80d-ae8f-41fd-a862-893eb1573887.m3u8
 
-#EXTINF:-1 tvg-name="LUGANO VS CRVENA ZVEZDA --- CH 2" tvg-logo="" group-title="LIVE EVENTS",LUGANO VS CRVENA ZVEZDA --- CH 2
+#EXTINF:-1 tvg-name="FREIBURG VS JABLONEC --- CH 1" tvg-logo="" group-title="LIVE EVENTS",FREIBURG VS JABLONEC --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/ccd0a3a6-f009-4200-9489-03fa4dce8619.m3u8
+http://193.47.62.41/hls/H999AA.m3u8
 
-#EXTINF:-1 tvg-name="EGNATIA VS MIDTJYLLAND --- CH 1" tvg-logo="" group-title="LIVE EVENTS",EGNATIA VS MIDTJYLLAND --- CH 1
+#EXTINF:-1 tvg-name="FREIBURG VS JABLONEC --- CH 2" tvg-logo="" group-title="LIVE EVENTS",FREIBURG VS JABLONEC --- CH 2
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.41/hls/ZKKK.m3u8
+https://www.rtmpcdn.com/live/d6f0e024-8d57-407f-8ba0-d79cb22f97ef.m3u8
 
-#EXTINF:-1 tvg-name="EGNATIA VS MIDTJYLLAND --- CH 2" tvg-logo="" group-title="LIVE EVENTS",EGNATIA VS MIDTJYLLAND --- CH 2
+#EXTINF:-1 tvg-name="FC COPENHAGEN VS SPORTING BRAGA --- CH 1" tvg-logo="" group-title="LIVE EVENTS",FC COPENHAGEN VS SPORTING BRAGA --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-https://www.rtmpcdn.com/live/76bd61b7-db84-4cfe-9e24-c732181bcfca.m3u8
+http://193.47.62.41/hls/H999A.m3u8
+
+#EXTINF:-1 tvg-name="FC COPENHAGEN VS SPORTING BRAGA --- CH 2" tvg-logo="" group-title="LIVE EVENTS",FC COPENHAGEN VS SPORTING BRAGA --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://www.rtmpcdn.com/live/d1eca2ba-6c8e-4907-842b-a53d122af4f6.m3u8
+
+#EXTINF:-1 tvg-name="SK BRANN VS LINCOLN RED IMPS" tvg-logo="" group-title="LIVE EVENTS",SK BRANN VS LINCOLN RED IMPS
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.41/hls/H999.m3u8
+
+#EXTINF:-1 tvg-name="REAL MADRID VS LYON-VILLEURBANNE --- CH 1" tvg-logo="" group-title="LIVE EVENTS",REAL MADRID VS LYON-VILLEURBANNE --- CH 1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.59/hls/F222AAAQQQQ.m3u8
+
+#EXTINF:-1 tvg-name="REAL MADRID VS LYON-VILLEURBANNE --- CH 2" tvg-logo="" group-title="LIVE EVENTS",REAL MADRID VS LYON-VILLEURBANNE --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://www.rtmpcdn.com/live/4f2e16ab-6814-4df2-a546-ceabb6e27b5c.m3u8
+
+#EXTINF:-1 tvg-name="VALENCIA VS MACCABI TEL AVIV --- CH 1" tvg-logo="" group-title="LIVE EVENTS",VALENCIA VS MACCABI TEL AVIV --- CH 1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.59/hls/F222AAAQQQ.m3u8
+
+#EXTINF:-1 tvg-name="VALENCIA VS MACCABI TEL AVIV --- CH 2" tvg-logo="" group-title="LIVE EVENTS",VALENCIA VS MACCABI TEL AVIV --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://www.rtmpcdn.com/live/fd83b2e7-d95e-46c6-b894-e593a1abcfe5.m3u8
+
+#EXTINF:-1 tvg-name="OLIMPIA MILANO VS DUBAI --- CH 1" tvg-logo="" group-title="LIVE EVENTS",OLIMPIA MILANO VS DUBAI --- CH 1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.59/hls/F222AAAQQ.m3u8
+
+#EXTINF:-1 tvg-name="OLIMPIA MILANO VS DUBAI --- CH 2" tvg-logo="" group-title="LIVE EVENTS",OLIMPIA MILANO VS DUBAI --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://www.rtmpcdn.com/live/390fd89e-1f44-4620-807e-0e19e6f7b2ae.m3u8
 
 #EXTINF:-1 tvg-name="FENERBAHCE VS PARTIZAN --- CH 1" tvg-logo="" group-title="LIVE EVENTS",FENERBAHCE VS PARTIZAN --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -271,130 +327,4 @@ http://193.47.62.59/hls/F222AAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.59/hls/F222AA.m3u8
-
-#EXTINF:-1 tvg-name="MUGLASPOR VS BURSASPOR" tvg-logo="" group-title="LIVE EVENTS",MUGLASPOR VS BURSASPOR
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/F222A.m3u8
-
-#EXTINF:-1 tvg-name="MANISA FK VS EROKSPOR" tvg-logo="" group-title="LIVE EVENTS",MANISA FK VS EROKSPOR
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/F222.m3u8
-
-#EXTINF:-1 tvg-name="VAXJO VS SKELLEFTEA" tvg-logo="" group-title="LIVE EVENTS",VAXJO VS SKELLEFTEA
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/G777AAAAAA.m3u8
-
-#EXTINF:-1 tvg-name="TIMRA VS HV 71" tvg-logo="" group-title="LIVE EVENTS",TIMRA VS HV 71
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/G777AAAAA.m3u8
-
-#EXTINF:-1 tvg-name="MALMO VS OREBRO" tvg-logo="" group-title="LIVE EVENTS",MALMO VS OREBRO
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/G777AAAA.m3u8
-
-#EXTINF:-1 tvg-name="LINKOPING VS FROLUNDA" tvg-logo="" group-title="LIVE EVENTS",LINKOPING VS FROLUNDA
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/G777AAA.m3u8
-
-#EXTINF:-1 tvg-name="IF BJORKLOVEN VS ROGLE" tvg-logo="" group-title="LIVE EVENTS",IF BJORKLOVEN VS ROGLE
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/G777AA.m3u8
-
-#EXTINF:-1 tvg-name="FARJESTAD VS LULEA" tvg-logo="" group-title="LIVE EVENTS",FARJESTAD VS LULEA
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/G777A.m3u8
-
-#EXTINF:-1 tvg-name="BRYNAS VS DJURGARDEN" tvg-logo="" group-title="LIVE EVENTS",BRYNAS VS DJURGARDEN
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/G777.m3u8
-
-#EXTINF:-1 tvg-name="POGON SIEDLCE VS PUSZCZA" tvg-logo="" group-title="LIVE EVENTS",POGON SIEDLCE VS PUSZCZA
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/B666AAAACCQQQCQQQ.m3u8
-
-#EXTINF:-1 tvg-name="FLORA VS LEVADIA" tvg-logo="" group-title="LIVE EVENTS",FLORA VS LEVADIA
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/B666AAAACCQQQCQQ.m3u8
-
-#EXTINF:-1 tvg-name="RUBIN KAZAN VS ORENBURG" tvg-logo="" group-title="LIVE EVENTS",RUBIN KAZAN VS ORENBURG
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/B666AAAACCQQQCQ.m3u8
-
-#EXTINF:-1 tvg-name="AL HAZEM VS AL FATEH" tvg-logo="" group-title="LIVE EVENTS",AL HAZEM VS AL FATEH
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/B666AAAACCQQQC.m3u8
-
-#EXTINF:-1 tvg-name="AL KHALEEJ VS AL FAYHA" tvg-logo="" group-title="LIVE EVENTS",AL KHALEEJ VS AL FAYHA
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/B666AAAACCQQC.m3u8
-
-#EXTINF:-1 tvg-name="MARDIN 1969 VS KARAGUMRUK" tvg-logo="" group-title="LIVE EVENTS",MARDIN 1969 VS KARAGUMRUK
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/B666AAAACCQC.m3u8
-
-#EXTINF:-1 tvg-name="RFS VS SUPER NOVA" tvg-logo="" group-title="LIVE EVENTS",RFS VS SUPER NOVA
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/B666AAAACCC.m3u8
-
-#EXTINF:-1 tvg-name="MASHAL MUBORAK VS OKMK" tvg-logo="" group-title="LIVE EVENTS",MASHAL MUBORAK VS OKMK
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/B666AAAACC.m3u8
-
-#EXTINF:-1 tvg-name="ANDIJAN VS QIZILQUM" tvg-logo="" group-title="LIVE EVENTS",ANDIJAN VS QIZILQUM
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
-http://193.47.62.59/hls/B666AAAAC.m3u8
 
