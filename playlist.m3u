@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DENVER BRONCOS VS SEATTLE SEAHAWKS --- CH 3" tvg-logo="" group-title="LIVE EVENTS",DENVER BRONCOS VS SEATTLE SEAHAWKS --- CH 3
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://tedesco.formaturamaxi.com.br/nfl.m3u8
+
 #EXTINF:-1 tvg-name="VEGAS GOLDEN KNIGHTS VS CALGARY FLAMES" tvg-logo="" group-title="LIVE EVENTS",VEGAS GOLDEN KNIGHTS VS CALGARY FLAMES
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -20,12 +27,19 @@ http://193.47.62.59/hls/777YAAAAA.m3u8
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0a86ea01-4215-4805-8216-9a9e6b8b4bb5/master.m3u8
 
-#EXTINF:-1 tvg-name="ESTUDIANTES LP VS FLAMENGO RJ" tvg-logo="" group-title="LIVE EVENTS",ESTUDIANTES LP VS FLAMENGO RJ
+#EXTINF:-1 tvg-name="ESTUDIANTES LP VS FLAMENGO RJ --- CH 1" tvg-logo="" group-title="LIVE EVENTS",ESTUDIANTES LP VS FLAMENGO RJ --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.59/hls/777YAAAA.m3u8
+
+#EXTINF:-1 tvg-name="ESTUDIANTES LP VS FLAMENGO RJ --- CH 2" tvg-logo="" group-title="LIVE EVENTS",ESTUDIANTES LP VS FLAMENGO RJ --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://www.rtmpcdn.com/live/d58d119e-3d11-46d1-98cc-61759118ce9e.m3u8
 
 #EXTINF:-1 tvg-name="HOUSTON ROCKETS VS OKLAHOMA CITY THUNDER --- CH 1" tvg-logo="" group-title="LIVE EVENTS",HOUSTON ROCKETS VS OKLAHOMA CITY THUNDER --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -41,12 +55,19 @@ http://193.47.62.59/hls/777YAAA.m3u8
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 https://www.rtmpcdn.com/live/a8aab5cf-a5b5-4ca0-b649-0029eb79c602.m3u8
 
-#EXTINF:-1 tvg-name="LOS ANGELES DODGERS VS MILWAUKEE BREWERS" tvg-logo="" group-title="LIVE EVENTS",LOS ANGELES DODGERS VS MILWAUKEE BREWERS
+#EXTINF:-1 tvg-name="LOS ANGELES DODGERS VS MILWAUKEE BREWERS --- CH 1" tvg-logo="" group-title="LIVE EVENTS",LOS ANGELES DODGERS VS MILWAUKEE BREWERS --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.59/hls/777YAA.m3u8
+
+#EXTINF:-1 tvg-name="LOS ANGELES DODGERS VS MILWAUKEE BREWERS --- CH 2" tvg-logo="" group-title="LIVE EVENTS",LOS ANGELES DODGERS VS MILWAUKEE BREWERS --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://admin2.formaturamaxi.com.br/mlb.m3u8
 
 #EXTINF:-1 tvg-name="NASHVILLE PREDATORS VS SAN JOSE SHARKS" tvg-logo="" group-title="LIVE EVENTS",NASHVILLE PREDATORS VS SAN JOSE SHARKS
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -90,12 +111,19 @@ http://193.47.62.44/hls/777Y.m3u8
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.44/hls/555GAAAAA.m3u8
 
-#EXTINF:-1 tvg-name="NEW YORK KNICKS VS TORONTO RAPTORSTHUNDER --- CH 1" tvg-logo="" group-title="LIVE EVENTS",NEW YORK KNICKS VS TORONTO RAPTORSTHUNDER --- CH 1
+#EXTINF:-1 tvg-name="NEW YORK KNICKS VS TORONTO RAPTORS --- CH 1" tvg-logo="" group-title="LIVE EVENTS",NEW YORK KNICKS VS TORONTO RAPTORS --- CH 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
 http://193.47.62.44/hls/555GAAAA.m3u8
+
+#EXTINF:-1 tvg-name="NEW YORK KNICKS VS TORONTO RAPTORS --- CH 2" tvg-logo="" group-title="LIVE EVENTS",NEW YORK KNICKS VS TORONTO RAPTORS --- CH 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+https://www.rtmpcdn.com/live/6e8481ed-0f66-47c2-a66d-53142c13e2c4.m3u8
 
 #EXTINF:-1 tvg-name="DETROIT RED WINGS VS PHILADELPHIA FLYERS" tvg-logo="" group-title="LIVE EVENTS",DETROIT RED WINGS VS PHILADELPHIA FLYERS
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/

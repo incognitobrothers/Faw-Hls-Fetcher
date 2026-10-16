@@ -4831,7 +4831,7 @@
   },
   {
     "name": "LOS ANGELES DODGERS VS MILWAUKEE BREWERS --- CH 1",
-    "m3u": "http://193.47.62.59/hls/Y888AAAA.m3u8",
+    "m3u": "http://193.47.62.59/hls/777YAA.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
@@ -6113,6 +6113,41 @@
   {
     "name": "U MAGDALENA VS IND VALLE DEL CAUCA",
     "m3u": "http://193.47.62.41/hls/GG333.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "DENVER BRONCOS VS SEATTLE SEAHAWKS --- CH 3",
+    "m3u": "https://tedesco.formaturamaxi.com.br/nfl.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "ESTUDIANTES LP VS FLAMENGO RJ --- CH 1",
+    "m3u": "http://193.47.62.59/hls/777YAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "ESTUDIANTES LP VS FLAMENGO RJ --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/d58d119e-3d11-46d1-98cc-61759118ce9e.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "NEW YORK KNICKS VS TORONTO RAPTORS --- CH 1",
+    "m3u": "http://193.47.62.44/hls/555GAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "NEW YORK KNICKS VS TORONTO RAPTORS --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/6e8481ed-0f66-47c2-a66d-53142c13e2c4.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
