@@ -1,4 +1,39 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="SAMOA VS FRANCE" tvg-logo="" group-title="LIVE EVENTS",SAMOA VS FRANCE
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.41/hls/FDFDDFDD.m3u8
+
+#EXTINF:-1 tvg-name="NORTHLAND VS OTAGO" tvg-logo="" group-title="LIVE EVENTS",NORTHLAND VS OTAGO
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.41/hls/FDFDDFDDa.m3u8
+
+#EXTINF:-1 tvg-name="GOLF DP WORLD INDIA CHAMPIONSHIP" tvg-logo="" group-title="LIVE EVENTS",GOLF DP WORLD INDIA CHAMPIONSHIP
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.59/hls/KNNNA.m3u8
+
+#EXTINF:-1 tvg-name="GOLF BUICK LPGA SHANGHAI" tvg-logo="" group-title="LIVE EVENTS",GOLF BUICK LPGA SHANGHAI
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.59/hls/KNNN.m3u8
+
+#EXTINF:-1 tvg-name="TENNIS WTA WUHAN" tvg-logo="" group-title="LIVE EVENTS",TENNIS WTA WUHAN
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTHTTP:{"referer": "http://www.fawanews.sc/", "origin": "http://www.fawanews.sc", "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+http://193.47.62.50/hls/BUUU.m3u8
+
 #EXTINF:-1 tvg-name="DENVER BRONCOS VS SEATTLE SEAHAWKS --- CH 3" tvg-logo="" group-title="LIVE EVENTS",DENVER BRONCOS VS SEATTLE SEAHAWKS --- CH 3
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
