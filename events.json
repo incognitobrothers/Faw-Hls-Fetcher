@@ -6889,7 +6889,7 @@
   },
   {
     "name": "ANAHEIM DUCKS VS BOSTON BRUINS",
-    "m3u": null,
+    "m3u": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6ca9cdfd-ad20-4743-8103-748d57e18eaa/master.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
@@ -6910,7 +6910,7 @@
   },
   {
     "name": "COLORADO AVALANCHE VS PITTSBURGH PENGUINS",
-    "m3u": null,
+    "m3u": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8dfc3df8-a49f-465d-90f5-22b91aa499ca/master.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
@@ -7107,6 +7107,146 @@
   {
     "name": "RECOLETA VS RUBIO NU",
     "m3u": "http://193.47.62.41/hls/3JJJAAAAQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "CLEVELAND GUARDIANS VS TAMPA BAY RAYS --- CH 1",
+    "m3u": "http://193.47.62.50/hls/Z333AAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "CLEVELAND GUARDIANS VS TAMPA BAY RAYS --- CH 2",
+    "m3u": "https://admin2.formaturamaxi.com.br/mlb.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LOS ANGELES LAKERS VS DENVER NUGGETS --- CH 1",
+    "m3u": "http://193.47.62.55/hls/HTTTAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LOS ANGELES LAKERS VS DENVER NUGGETS --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/139626cd-4279-417b-a718-e1470c5e219d.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "PHOENIX SUNS VS UTAH JAZZ --- CH 1",
+    "m3u": "http://193.47.62.55/hls/55GGGAQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "PHOENIX SUNS VS UTAH JAZZ --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/31302b57-682e-4a48-be5e-131924b8294d.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "GOLDEN STATE WARRIORS VS PORTLAND TRAIL BLAZERS --- CH 1",
+    "m3u": "http://193.47.62.55/hls/55GGGAQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "GOLDEN STATE WARRIORS VS PORTLAND TRAIL BLAZERS --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/62529d65-c8f1-4146-8611-b4bb6dfd0a32.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "WWE FRIDAY NIGHT SMACKDOWN --- CH 1",
+    "m3u": "http://193.47.62.59/hls/88HHHQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "WWE FRIDAY NIGHT SMACKDOWN --- CH 2",
+    "m3u": "https://admin2.formaturamaxi.com.br/wwe.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "SAN ANTONIO SPURS VS SACRAMENTO KINGS --- CH 1",
+    "m3u": "http://193.47.62.50/hls/Z333AAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "SAN ANTONIO SPURS VS SACRAMENTO KINGS --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/aa5b07c0-8fdf-49ef-ad39-13b6c4e60306.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "NEW ORLEANS PELICANS VS WASHINGTON WIZARDS --- CH 1",
+    "m3u": "http://193.47.62.50/hls/Z333AAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "NEW ORLEANS PELICANS VS WASHINGTON WIZARDS --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/6483fcc9-2172-4299-8561-d8fad144b855.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "MEMPHIS GRIZZLIES VS CHARLOTTE HORNETS --- CH 1",
+    "m3u": "http://193.47.62.50/hls/Z333AA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "MEMPHIS GRIZZLIES VS CHARLOTTE HORNETS --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/5908f9dd-9523-4fd4-90b8-33d7acae2982.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "DALLAS MAVERICKS VS ATLANTA HAWKS --- CH 1",
+    "m3u": "http://193.47.62.50/hls/Z333A.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "DALLAS MAVERICKS VS ATLANTA HAWKS --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/f2e80bde-8e4d-48fb-837f-d9d78c26298c.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "CHICAGO BULLS VS MINNESOTA TIMBERWOLVES --- CH 1",
+    "m3u": "http://193.47.62.50/hls/Z333.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "CHICAGO BULLS VS MINNESOTA TIMBERWOLVES --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/40d2cab0-35d1-4ee2-9ee0-a939c1f93310.m3u8",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
