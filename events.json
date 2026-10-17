@@ -7355,5 +7355,460 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "referer": "http://www.fawanews.sc/",
     "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "EVERTON VS CHELSEA --- CH 1",
+    "m3u": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "EVERTON VS CHELSEA --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/8f05519f-67c3-4c16-b819-2c36b95d4b5a.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "EVERTON VS CHELSEA --- CH 3",
+    "m3u": "https://admin2.formaturamaxi.com.br/tnt.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "CFFA VS YOUNG AFRICANS",
+    "m3u": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "ARSENAL W VS BIRMINGHAM W",
+    "m3u": "http://193.47.62.50/hls/4GGGQQQQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "WATFORD VS CHARLTON --- CH 1",
+    "m3u": "http://193.47.62.48/hls/4GGGQQQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "WATFORD VS CHARLTON --- CH 2",
+    "m3u": "https://tedesco.formaturamaxi.com.br/golazo.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "MIDDLESBROUGH VS CARDIFF CITY --- CH 1",
+    "m3u": "http://193.47.62.48/hls/4GGGQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "MIDDLESBROUGH VS CARDIFF CITY --- CH 2",
+    "m3u": "https://tedesco.formaturamaxi.com.br/ncaa10.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "MILLWALL VS LINCOLN",
+    "m3u": "http://193.47.62.48/hls/4GGGQQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "PETERBOROUGH VS BURTON",
+    "m3u": "http://193.47.62.48/hls/4GGGQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "MK DONS VS LUTON TOWN",
+    "m3u": "http://193.47.62.48/hls/4GGGQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "SHREWSBURY VS BRISTOL ROVERS",
+    "m3u": "http://193.47.62.48/hls/4GGGQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "FLEETWOOD VS ROTHERHAM",
+    "m3u": "http://193.47.62.48/hls/4GGG.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "ESPANYOL VS ATLETICO MADRID --- CH 1",
+    "m3u": "http://193.47.62.55/hls/FUUUQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "ESPANYOL VS ATLETICO MADRID --- CH 2",
+    "m3u": "https://www.rtmpcdn.com/live/1557ae2b-37ec-4b12-89f3-fe24eb6add40.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "REAL SOCIEDAD B VS ALMERIA",
+    "m3u": "http://193.47.62.55/hls/FUUUQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "NANTES VS DUNKERQUE",
+    "m3u": "http://193.47.62.55/hls/FUUUQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "METZ VS SOCHAUX",
+    "m3u": "http://193.47.62.55/hls/FUUUQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "SALE SHARKS VS GLASGOW WARRIORS",
+    "m3u": "http://193.47.62.55/hls/FVVVQQQQQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "BULLS STADE VS FRANCAIS PARIS",
+    "m3u": "http://193.47.62.55/hls/FVVVQQQQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LYON VS SHARKS",
+    "m3u": "http://193.47.62.55/hls/FVVVQQQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "BLACK LION VS OSPREYS",
+    "m3u": "http://193.47.62.55/hls/FVVVQQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "AEK ATHENS VS MYKONOS",
+    "m3u": "http://193.47.62.55/hls/FVVVQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "HAMKAM VS BODO GLIMT",
+    "m3u": "http://193.47.62.55/hls/FVVVQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "MALMO FF W VS AIK W",
+    "m3u": "http://193.47.62.55/hls/FVVVQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "IF BROMMAPOJKARNA W VS VAXJO DFF W",
+    "m3u": "http://193.47.62.55/hls/FVVVQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "KEFLAVIK VS KR REYKJAVIK",
+    "m3u": "http://193.47.62.55/hls/FVVV.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "BAYER LEVERKUSEN W VS EINTRACHT FRANKFURT W",
+    "m3u": "http://193.47.62.55/hls/FUUU.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LOKOMOTIV GORNA VS SEPTEMVRI SOFIA",
+    "m3u": "http://193.47.62.55/hls/ZIIIAAAAQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "SHANDONG TAISHAN VS ZHEJIANG PROFESSIONAL",
+    "m3u": "http://193.47.62.55/hls/ZIIIAAAAQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "REGENSBURG VS WEHEN",
+    "m3u": "http://193.47.62.55/hls/ZIIIAAAAQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "INGOLSTADT VS RW ESSEN",
+    "m3u": "http://193.47.62.55/hls/ZIIIAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "GROSSASPACH VS PREUSSEN MUNSTER",
+    "m3u": "http://193.47.62.55/hls/ZIIIAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "FORTUNA DUSSELDORF VS SAARBRUCKEN",
+    "m3u": "http://193.47.62.55/hls/ZIIIAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "ALEMANNIA AACHEN VS HANSA ROSTOCK",
+    "m3u": "http://193.47.62.55/hls/ZIIIA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "RAYONG FC VS UTHAI THANI",
+    "m3u": "http://193.47.62.55/hls/ZIII.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "YUNNAN YUKUN VS CHONGQING TONGLIANGLONG",
+    "m3u": "http://193.47.62.55/hls/8GGGAAAAAQQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "QINGDAO HAINIU VS LIAONING TIEREN",
+    "m3u": "http://193.47.62.55/hls/8GGGAAAAAQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "BALESTIER KHALSA VS GEYLANG",
+    "m3u": "http://193.47.62.55/hls/8GGGAAAAAQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "INTER KASHI VS ODISHA FC",
+    "m3u": "http://193.47.62.55/hls/8GGGAAAAAQQQQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "AALBORG VS VEJLE",
+    "m3u": "http://193.47.62.55/hls/8GGGAAAAAQQQQQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "CHONBURI VS PRACHUAP",
+    "m3u": "http://193.47.62.55/hls/8GGGAAAAAQQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "FK PANEVEZYS VS BANGA",
+    "m3u": "http://193.47.62.55/hls/8GGGAAAAAQ.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LJUNGSKILE VS BRAGE",
+    "m3u": "http://193.47.62.55/hls/8GGGAAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "SUKHOTHAI VS RASISALAI UTD",
+    "m3u": "http://193.47.62.55/hls/8GGGAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "KRYLYA SOVETOV VS FAKEL VORONEZH",
+    "m3u": "http://193.47.62.55/hls/8GGGAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "WOLFSBURG VS HEIDENHEIM",
+    "m3u": "http://193.47.62.55/hls/8GGGAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "FC KAISERSLAUTERN VS BOCHUM",
+    "m3u": "http://193.47.62.55/hls/8GGGA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "GREUTHER FURTH VS BRAUNSCHWEIG",
+    "m3u": "http://193.47.62.55/hls/8GGG.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LAHTI VS TPS",
+    "m3u": "http://193.47.62.55/hls/3KKKAAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "JARO VS MARIEHAMN",
+    "m3u": "http://193.47.62.55/hls/3KKKAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "ILVES VS SJK",
+    "m3u": "http://193.47.62.55/hls/3KKKAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "DALIAN YINGBO VS SHENZHEN XINPENGCHENG",
+    "m3u": "http://193.47.62.55/hls/3KKKAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "BSK BANJA LUKA VS ZELJEZNICAR",
+    "m3u": "http://193.47.62.55/hls/3KKKA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "ENGLAND VS TONGA",
+    "m3u": "http://193.47.62.55/hls/5GGGAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "KAIZER CHIEFS U23 VS MARUMO GALLANTS U23",
+    "m3u": "http://193.47.62.41/hls/ASSSAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "ERZURUMSPOR VS EYUPSPOR",
+    "m3u": "http://193.47.62.55/hls/777UAAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "FK ZORYA LUHANSK VS CH ODESA",
+    "m3u": "http://193.47.62.55/hls/777UAAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "KASHIWA REYSOL VS NAGOYA GRAMPUS",
+    "m3u": "http://193.47.62.55/hls/777UAAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "KOLN W VS HAMBURGER SV W",
+    "m3u": "http://193.47.62.55/hls/777UAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "LOGRONO W VS GRANADA CF W",
+    "m3u": "http://193.47.62.55/hls/777UA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "VIHREN VS LOKOMOTIV SOFIA",
+    "m3u": "http://193.47.62.55/hls/5GGGAA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "NEGERI SEMBILAN VS SABAH",
+    "m3u": "http://193.47.62.55/hls/5GGGA.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
+  },
+  {
+    "name": "CENTRAL COAST MARINERS VS NEWCASTLE JETS",
+    "m3u": "http://193.47.62.55/hls/5GGG.m3u8",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "referer": "http://www.fawanews.sc/",
+    "origin": "http://www.fawanews.sc"
   }
 ]
